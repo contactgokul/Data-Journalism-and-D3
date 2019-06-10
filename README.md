@@ -12,9 +12,7 @@ The data set included with the assignment is based on 2014 ACS 1-year estimates:
 
 ## Tasks accomplished
 
-Completed the Optional Challenge Assignment along with the basic Scatter Chart where a static graph has been created animating the transitions for circles using three axis by reading the csv data
-
-![4-scatter](Images/4-scatter.jpg)
+Completed the Optional Challenge Assignment which also covers the basic Scatter Chart where a static graph has been created animating the transitions for circles using three axis by reading the csv data
 
 ![7-animated-scatter](Images/7-animated-scatter.gif)
 
