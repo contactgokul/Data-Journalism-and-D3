@@ -4,7 +4,7 @@
 
 ## Background
 
-Analysis the current trends shaping people's lives, as well as creating charts, graphs, and interactive elements to help readers understand my findings.
+Analysis of the current trends shaping people's lives, as well as creating charts, graphs, and interactive elements to help readers understand my findings.
 
 The editor can run a series of feature stories about the health risks facing particular demographics by sifting through information from the U.S. Census Bureau and the Behavioral Risk Factor Surveillance System.
 
@@ -12,7 +12,7 @@ The data set included with the assignment is based on 2014 ACS 1-year estimates:
 
 ## Tasks accomplished
 
-### Completed the Optional Challenge Assignment along with the basic Scatter Chart where a static graph has been created animating the transitions for circles using three axis by reading the csv data
+Completed the Optional Challenge Assignment along with the basic Scatter Chart where a static graph has been created animating the transitions for circles using three axis by reading the csv data
 
 ![4-scatter](Images/4-scatter.jpg)
 
